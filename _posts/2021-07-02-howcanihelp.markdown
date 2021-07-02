@@ -13,5 +13,5 @@ The directories that I'm writing will be in English and not everyone can underst
 As more backups are being uploaded to the internet, it's getting harder and harder for me to keep track of them all and so if you know of an archive that is not on this list, please add an issue on this page's GitHub and I'll it in as soon as possible.
 
 ## Where can I access this repo?
-Issues: [https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory/issues](https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory/issues)
+Issues: [https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory/issues](https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory/issues) <br>
 Repo: [https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory](https://github.com/ARandomGuyOnTheWeb/HK-media-backup-directory)
