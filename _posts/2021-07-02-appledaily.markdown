@@ -13,7 +13,7 @@ Partial save of Apple Daily's HK operation's websites are available from the Way
 <br>
 <br>
 
-## [u/aXcess2](https://www.reddit.com/user/aXcess2)'s archives:
+## [u/aXcess2](https://www.reddit.com/user/aXcess2)'s archives
 
 * 2012 (Mostly, if not fully complete): [https://archive.org/details/hk-apple-daily-2012](https://archive.org/details/hk-apple-daily-2012)
 * 2013 (Looks to be mostly complete): [https://archive.org/details/hk-apple-daily-2013](https://archive.org/details/hk-apple-daily-2013)
@@ -21,13 +21,13 @@ Partial save of Apple Daily's HK operation's websites are available from the Way
 <br>
 <br>
 
-## My archive:
+## My archive
 
 * 蘋果LIVE playlist (incomplete): [https://archive.org/details/live-hk-apple-daily-incomplete-backup](https://archive.org/details/live-hk-apple-daily-incomplete-backup)
 <br>
 <br>
 
-## Archive Team's archives:
+## Archive Team's archives
 
 [https://wiki.archiveteam.org/index.php/Apple\_Daily](https://wiki.archiveteam.org/index.php/Apple_Daily)
 
