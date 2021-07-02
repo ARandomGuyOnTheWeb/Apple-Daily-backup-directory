@@ -6,7 +6,6 @@ categories: Apple Daily
 ---
 {% include toc.md %}
 
-## English
 Partial save of Apple Daily's HK operation's websites are available from the Wayback Machine (October 2017 - June 2021 in the case of the Chinese edition of it and June 2021 for the English edition).
 
 * [https://web.archive.org/web/\*/hk.appledaily.com](https://web.archive.org/web/*/hk.appledaily.com)
@@ -14,7 +13,7 @@ Partial save of Apple Daily's HK operation's websites are available from the Way
 <br>
 <br>
 
-### [u/aXcess2](https://www.reddit.com/user/aXcess2)'s archives:
+## [u/aXcess2](https://www.reddit.com/user/aXcess2)'s archives:
 
 * 2012 (Mostly, if not fully complete): [https://archive.org/details/hk-apple-daily-2012](https://archive.org/details/hk-apple-daily-2012)
 * 2013 (Looks to be mostly complete): [https://archive.org/details/hk-apple-daily-2013](https://archive.org/details/hk-apple-daily-2013)
@@ -22,13 +21,13 @@ Partial save of Apple Daily's HK operation's websites are available from the Way
 <br>
 <br>
 
-### My archive:
+## My archive:
 
 * 蘋果LIVE playlist (incomplete): [https://archive.org/details/live-hk-apple-daily-incomplete-backup](https://archive.org/details/live-hk-apple-daily-incomplete-backup)
 <br>
 <br>
 
-### Archive Team's archives:
+## Archive Team's archives:
 
 [https://wiki.archiveteam.org/index.php/Apple\_Daily](https://wiki.archiveteam.org/index.php/Apple_Daily)
 
@@ -36,7 +35,7 @@ They seem to have downloaded a large portion of the videos on the article pages 
 <br>
 <br>
 
-### Other Archive.org backups
+## Other Archive.org backups
 An [archive.org](https://archive.org) user who goes by saveappledaily has uploaded Apple Daily's Featured Stories and some other clips as well as some of the final 9點半蘋果新聞報道 live streams:
 
 [https://archive.org/details/@saveappledaily](https://archive.org/details/@saveappledaily)
@@ -44,7 +43,7 @@ An [archive.org](https://archive.org) user who goes by saveappledaily has upload
 <br>
 <br>
 
-### Article backups
+## Article backups
 Thanks, [u/HK-612-721-811](https://www.reddit.com/user/HK-612-721-811) for the tip! Below is a text only archive of most if not all the articles on the site from 2016-01-01 to 2021-06-16:
 
 [https://ipfs.io/ipfs/QmX1WxnXhD5zyGch5rnJhCDS7P51CLt9YGSH5kFpzkL46T/](https://ipfs.io/ipfs/QmX1WxnXhD5zyGch5rnJhCDS7P51CLt9YGSH5kFpzkL46T/)
@@ -53,10 +52,10 @@ Thanks, [u/Mr_RXN](https://www.reddit.com/user/Mr_RXN) for the tip! Below is an 
 
 [https://ipfs.io/ipfs/Qmdig4NtBTbUiw9KRri83Warmrp4f5PFFFZMoQUwqXuNbZ/](https://ipfs.io/ipfs/Qmdig4NtBTbUiw9KRri83Warmrp4f5PFFFZMoQUwqXuNbZ/)
 
-### Others
+## Others
 [u/lGJjJCxhzxLV](https://www.reddit.com/user/lGJjJCxhzxLV) has uploaded a data dump of the final chapter of Apple Daily, it can be found here: [https://www.reddit.com/r/HongKong/comments/o8v93a/apple\_daily\_final\_chapter\_data\_dump\_%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%9C%80%E7%B5%82%E7%AB%A0%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%82%A8/](https://www.reddit.com/r/HongKong/comments/o8v93a/apple_daily_final_chapter_data_dump_%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%9C%80%E7%B5%82%E7%AB%A0%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%82%A8/)
 
-### LIHKG
+## LIHKG
 A [thread on LIHKG](https://lihkg.com/thread/2588718/page/1) lists some channels that have some of the backups of Apple Daily, these links are:
 
 * [https://www.youtube.com/user/hkgvideo2](https://www.youtube.com/user/hkgvideo2)
@@ -69,5 +68,6 @@ A [thread on LIHKG](https://lihkg.com/thread/2588718/page/1) lists some channels
 * [https://www.youtube.com/user/pasuluk0202](https://www.youtube.com/user/pasuluk0202)
 * [https://www.youtube.com/channel/UCWuykjg416FF3kWoGhZ3BUw](https://www.youtube.com/channel/UCWuykjg416FF3kWoGhZ3BUw)
 
-## Chinese
-Needs translations
+## To dos
+
+This page needs updates as more archives emerge and translations to Chinese is also needed.
