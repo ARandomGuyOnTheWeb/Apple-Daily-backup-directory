@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Apple Daily Backups"
+title:  "Apple Daily Archives"
 date:   2021-07-02
 categories: Apple Daily
 ---
+Apple Daily was a newspaper that ran in Hong Kong from 1995 to 2021 and it was one of the best-selling Chinese language newspapers in Hong Kong.
+Apple Daily was known for being one of the only pro-democracy newspapers in the city and in June 2021, the newspaper was shutdown after the Hong Kong goverment froze its assets leaving it unable to pay wages and bills. It printed its final print edition on 24th June 2021 and its digital edition was taken down on the 23rd June 2021 at 23:59 Hong Kong Time. Below is a directory of what was rescued before the shut down. <br>
+<br>
 {% include toc.md %}
 
 Partial save of Apple Daily's HK operation's websites are available from the Wayback Machine (October 2017 - June 2021 in the case of the Chinese edition of it and June 2021 for the English edition).
@@ -68,11 +71,11 @@ A [thread on LIHKG](https://lihkg.com/thread/2588718/page/1) lists some channels
 * [https://www.youtube.com/user/pasuluk0202](https://www.youtube.com/user/pasuluk0202)
 * [https://www.youtube.com/channel/UCWuykjg416FF3kWoGhZ3BUw](https://www.youtube.com/channel/UCWuykjg416FF3kWoGhZ3BUw)
 
-## To dos
-
-This page needs updates as more archives emerge and translations to Chinese is also needed.
+## Got a link to share?
+If you a link to another archive that isn't on this page, please enter it below so it can be added. <br>
+<iframe width="730px" height= "650px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fWPBfFUOTZPWTQyVUlMSEdUTVVZNTRHUVRURlFPWi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 <br>
 <br>
 <br>
 <br>
-Last updated: 2021-07-02 16:25 UTC
+Last updated: 2021-07-04 00:05 UTC
