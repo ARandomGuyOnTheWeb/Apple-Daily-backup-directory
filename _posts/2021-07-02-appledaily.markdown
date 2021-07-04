@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple Daily Archives"
+title:  "Apple Daily archives directory"
 date:   2021-07-02
 categories: Apple Daily
 ---
