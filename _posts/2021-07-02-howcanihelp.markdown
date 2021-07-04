@@ -3,6 +3,7 @@ layout: post
 title:  "How can I help?"
 date:   2021-07-02
 categories: Website
+published: false
 ---
 This website needs your help in a number of ways. Right now, I'm only a one man band who can only do this in my spare time and therefore I need people to help update the site, translate it and mantaining it. Below are some ways that you can help
 
