@@ -6,13 +6,13 @@ categories: Apple Daily
 ---
 Apple Daily was a newspaper that ran in Hong Kong from 1995 to 2021 and it was one of the best-selling Chinese language newspapers in Hong Kong.
 Apple Daily was known for being one of the only pro-democracy newspapers in the city and in June 2021, the newspaper was shutdown after the Hong Kong goverment froze its assets leaving it unable to pay wages and bills. It printed its final print edition on 24th June 2021 and its digital edition was taken down on the 23rd June 2021 at 23:59 Hong Kong Time. Below is a directory of what was rescued before the shut down. <br>
-⚠️ *hkmediabackups.ml is not responsible for media hosted on external sites*<br>
+⚠️ *hkmediabackups.com is not responsible for media hosted on external sites*<br>
 <br>
 蘋果日報係一間香港嘅獨立媒體，由1995年開始營運到2021年，係香港其中一間最高銷量嘅報章媒體。蘋果日報最為人
 熟悉係喺2021年，因為支持本地民主運動而被香港政府以國安法為由凍結其資產，令佢哋無辦法支付員工同記者嘅人工
 而被迫停止營運。蘋果日報喺2021年6月24號出版最後嘅一份報紙，而佢哋嘅電子平台亦喺2021年6月23日香港時間晚
 上11點59分被下架。以下係其中一部分喺被刪除前及時被存檔嘅內容： <br>
-⚠️ *免責聲明：hkmediabackups.ml 同外來網頁寄存嘅媒體報導並無關係。* <br>
+⚠️ *免責聲明：hkmediabackups.com 同外來網頁寄存嘅媒體報導並無關係。* <br>
 <br>
 *This directory was orginally posted on [Reddit](https://www.reddit.com/r/HongKong/comments/o800xl/trying_to_create_an_apple_daily_archive_directory/)* <br>
 *呢個目錄黎自[Reddit](https://www.reddit.com/r/HongKong/comments/o800xl/trying_to_create_an_apple_daily_archive_directory/)*<br>
