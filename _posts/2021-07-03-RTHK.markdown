@@ -1,38 +1,45 @@
 ---
 layout: post
-title:  "RTHK archives directory"
+title:  "RTHK archives directory ｜ 香港電台(RTHK) 檔案儲存庫"
 date:   2021-07-03
 categories: RTHK
 ---
 RTHK is a public broadcaster in Hong Kong who was meant to give neutral coverage to the news. On 1st March 2021, Patrick Li was appointed to the post of the Directory of Broadcasting and later ten television episodes were been censored and large portions of its YouTube channel has been taken down.  Below is a directory of what was rescued before the content was taken down. <br>
 ⚠️ *hkmediabackups.ml is not responsible for media hosted on external sites*
 <br>
+<br>
+香港電台(RTHK) 係香港一間原本應該係立場中立嘅公營廣播機構。喺2021年3月1日，李百全被委任為廣播處長，其後 RTHK超過100萬訂閱嘅YouTube channel一度被下架，並有數十條電視存檔被刪除。以下喺被一部分喺被刪除前趕得切存檔嘅內容：<br>
+⚠️ *免責聲明：hkmediabackups.ml 同外來網頁寄存嘅媒體報導並無關係* <br>
 {% include toc.md %}
 <br>
 
-## My archives
+## My archives ｜ 我嘅存檔
 Please not that these archives may be incomplete as most were taken when RTHK was taking down content.<br>
+裏面嘅內容未必完整，因為存檔嘅時候RTHK某啲content同時被下架中。<br>
 <br>
 * The Pulse (Taken on 2021-05-05): [https://archive.org/details/the-pulse-2021-05-05-archive](https://archive.org/details/the-pulse-2021-05-05-archive)
 * 視點 31 (Taken on 2021-05-05): [https://archive.org/details/31-channel-dump-2021-05-05](https://archive.org/details/31-channel-dump-2021-05-05)
 * 頭條新聞 (Headliner) (Taken on 2020-06-27):[https://archive.org/details/rthk-headliner-2020-06-27-backup-streamable](https://archive.org/details/rthk-headliner-2020-06-27-backup-streamable)
 * Hong Kong Connection (Taken on 2021-05-03): [https://archive.org/details/hong-kong-connection-2021-05-03-archive](https://archive.org/details/hong-kong-connection-2021-05-03-archive)
 
-## BitTorrent link(s)
+## BitTorrent link(s) |  BitTorrent傳送門
 ⚠️ This link requires a BitTorrent client to access. <br>
 Full archive - [magnet:?xt=urn:btih:748b8bedee58acd7a64c3d0fb856f9337066eeda&dn=rthk&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2850%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2970%2fannounce&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce](magnet:?xt=urn:btih:748b8bedee58acd7a64c3d0fb856f9337066eeda&dn=rthk&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2850%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2970%2fannounce&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce)
 
 <br>
 <br>
 
-## Got a link to share?
+## Got a link to share? | 你都有嘢想分享？
 
 **This directory is a stub and needs your help to expand!**<br>
 Please share a link below 
 <br>
+**呢個儲存庫只係啱啱開始，需要大家一齊幫手添加更多內容！** <br>
+麻煩喺下面share番相關嘅link/檔案啦～<br>
+
 <iframe width="730px" height= "650px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fWPBfFUQkQ0NVhCNlA2NUhLWUlSVFpINU9SWTVPNS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 <br>
 <br>
 <br>
 <br>
-Last updated: 2021-07-04 12:48 UTC
+Last updated: 2021-08-04 15:00 UTC
