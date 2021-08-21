@@ -72,7 +72,8 @@ Thanks, [u/Mr_RXN](https://www.reddit.com/user/Mr_RXN) for the tip! Below is an 
 [u/lGJjJCxhzxLV](https://www.reddit.com/user/lGJjJCxhzxLV) has uploaded a data dump of the final chapter of Apple Daily, it can be found here: <br>
 [u/lGJjJCxhzxLV](https://www.reddit.com/user/lGJjJCxhzxLV)上載咗蘋果日報嘅最後一份報章，可以喺呢度搵到：<br>
 ~~[https://www.reddit.com/r/HongKong/comments/o8v93a/apple\_daily\_final\_chapter\_data\_dump\_%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%9C%80%E7%B5%82%E7%AB%A0%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%82%A8/](https://www.reddit.com/r/HongKong/comments/o8v93a/apple_daily_final_chapter_data_dump_%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1%E6%9C%80%E7%B5%82%E7%AB%A0%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%82%A8/)~~ <br>
-Backup: Coming soon!
+Backup: [Click here](https://anonfiles.com/tc03o3D6ud/Apple_Daily_Final_Chapter_zip) <br>
+Checksum (SHA 256): 15BC05972C3B629D2C20A35B45A95FAE4020EAB58FA1A7E11E3653CBC8DFFD53 <br>
 
 ## LIHKG ｜ 連登
 A [thread on LIHKG](https://lihkg.com/thread/2588718/page/1) lists some channels that have some of the backups of Apple Daily, these links are: <br>
